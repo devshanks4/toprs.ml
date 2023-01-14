@@ -5,7 +5,7 @@ const EMAIL = "im7amza93@gmail.com";
 
 
 const BranchName = "main";
-const GitUrl = "git@github.com:devshanks4/5skins-host.git";
+const GitUrl = "git@github.com:devshanks4/toprs.ml.git";
 
 
 //Use this function to contact CW API
