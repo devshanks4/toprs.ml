@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jonnyw/php-phantomjs": "4.*",
+        "fabpot/goutte": "^4.0"
+    }
+}
